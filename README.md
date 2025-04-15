@@ -2,7 +2,6 @@
 
 **Software Engineer** with experience in developing internal and security tools.  
 🎯 Focused on Front-End Engineering | Based in Jakarta, Indonesia  
-🌐 [GitHub](https://github.com/fadelmvi) · [LinkedIn](https://linkedin.com/in/fadellmuhammad) · ✉️ fadellmhmad@gmail.com
 
 
 
